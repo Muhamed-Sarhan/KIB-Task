@@ -49,7 +49,7 @@ function App() {
                   type="button"
                   {...getRootProps()}
                 >
-                  CSV Upload
+                  Upload CSV File
                 </Button>
                 {acceptedFile && (
                   <>
